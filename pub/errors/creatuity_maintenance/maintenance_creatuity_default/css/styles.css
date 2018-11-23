@@ -41,7 +41,7 @@ ul,ol         { list-style:none; }
 
 /* Layout ================================================================================ */
 .wrapper { width: 100%;}
-.main-container { background:#b6d1e2; }
+.main-container { background:#ffffff; }
 .col-main {text-align: -webkit-center; text-align: center;}
 .main { width:900px; margin:0 auto; min-height:560px; padding:25px 25px 80px; background:#fffffe; text-align:left; }
 .main.col1-layout{
